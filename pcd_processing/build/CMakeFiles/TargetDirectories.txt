@@ -1,0 +1,3 @@
+/home/melvin/pointcloud/build/CMakeFiles/rebuild_cache.dir
+/home/melvin/pointcloud/build/CMakeFiles/edit_cache.dir
+/home/melvin/pointcloud/build/CMakeFiles/range_image_visualization.dir

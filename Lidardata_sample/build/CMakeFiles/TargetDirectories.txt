@@ -1,0 +1,3 @@
+/home/melvin/pointcloud/Lidardata_sample/build/CMakeFiles/edit_cache.dir
+/home/melvin/pointcloud/Lidardata_sample/build/CMakeFiles/rebuild_cache.dir
+/home/melvin/pointcloud/Lidardata_sample/build/CMakeFiles/pcl_hdl_viewer_simple.dir
